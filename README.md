@@ -13,10 +13,26 @@
 >* [进程通信：管道2](http://blog.csdn.net/houkai6/article/details/8613082)<br>
 >* [句柄](http://blog.csdn.net/wenzhou1219/article/details/17659485)<br>
 ***
-## **思路（更新）**
 
-1. 应该是通过开启一个CMD之后再利用管道来将操作转到CMD上吧主要的思路还是来自与[木马教程](https://lellansin.wordpress.com/tutorials/hello_trojan/)的方式吧。<br>
-2. 怎样和让服务端（安装木马端）和客户端（控制木马端）进行沟通？以下两种方式：
+## **思路（更新）：**
+1. 怎样和让服务端（安装木马端）和客户端（控制木马端）进行沟通..考虑以下两种方式：
     * 直接使用管道的远程的远程调用的方式来实现
     * 或者使用Socket的方式来实现两个主机之间的通信<br>
 
+
+
+## **现在有的问题：**
+1. 主要还是怎样去让发过去的数据报实施到用户的主机上？
+```C++
+#include<Windows.h>
+
+system("COMANDS");
+```
+或者是通过创建一个隐藏的CMD的子进程然后利用管道来输入命令？
+```C++
+#include<Windows.h>
+CreateProcess();
+``` 
+2. 用户权限的问题，如果只是一个win32程序的话只能是Ring3，权限很低，怎么获得高权限？
+    * 漏洞？
+    * 其他的方式？ 
