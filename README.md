@@ -15,5 +15,8 @@
 ***
 ## **思路（更新）**
 
-**keywords:** &nbsp; `重定向` &nbsp;&nbsp; `管道 ` &nbsp;&nbsp; `Telent`<br><br>
-应该是通过开启一个CMD之后再利用管道来将操作转到CMD上吧主要的思路还是来自与[木马教程](https://lellansin.wordpress.com/tutorials/hello_trojan/)的方式吧。
+1. 应该是通过开启一个CMD之后再利用管道来将操作转到CMD上吧主要的思路还是来自与[木马教程](https://lellansin.wordpress.com/tutorials/hello_trojan/)的方式吧。<br>
+2. 怎样和让服务端（安装木马端）和客户端（控制木马端）进行沟通？以下两种方式：
+    * 直接使用管道的远程的远程调用的方式来实现
+    * 或者使用Socket的方式来实现两个主机之间的通信<br>
+
