@@ -1,7 +1,0 @@
-﻿  ClientMainEntry.cpp
-d:\visual_studio_projects\pipetestclient\pipetestclient\pipetest_client.h(7): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-d:\visual_studio_projects\pipetestclient\pipetestclient\pipetest_client.h(8): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-d:\visual_studio_projects\pipetestclient\pipetestclient\clientmainentry.cpp(21): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-d:\visual_studio_projects\pipetestclient\pipetestclient\clientmainentry.cpp(45): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-  PipeTestClient.vcxproj -> D:\visual_studio_projects\PipeTestClient\Debug\PipeTestClient.exe
-  PipeTestClient.vcxproj -> D:\visual_studio_projects\PipeTestClient\Debug\PipeTestClient.pdb (Partial PDB)
