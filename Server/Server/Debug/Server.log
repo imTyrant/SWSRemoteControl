@@ -1,0 +1,16 @@
+﻿  server_process_find.cpp
+d:\visual_studio_projects\swsremotecontrol\server\server\server_process_find.h(11): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\visual_studio_projects\swsremotecontrol\server\server\server_process_find.h(12): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\visual_studio_projects\swsremotecontrol\server\server\server_process_find.cpp(14): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\visual_studio_projects\swsremotecontrol\server\server\server_process_find.cpp(39): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  server_pic_shoot.cpp
+d:\visual_studio_projects\swsremotecontrol\server\server\server_pic_shoot.cpp(6): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windbg\windbg\include\10.0.15063.0\ucrt\corecrt_wstring.h(127): note: 参见“wcscpy”的声明
+d:\visual_studio_projects\swsremotecontrol\server\server\server_pic_shoot.cpp(27): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windbg\windbg\include\10.0.15063.0\ucrt\corecrt_wstring.h(127): note: 参见“wcscpy”的声明
+d:\visual_studio_projects\swsremotecontrol\server\server\server_pic_shoot.cpp(35): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\visual_studio_projects\swsremotecontrol\server\server\server_pic_shoot.cpp(160): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windbg\windbg\include\10.0.15063.0\ucrt\corecrt_wstring.h(127): note: 参见“wcscpy”的声明
+  正在生成代码...
+  Server.vcxproj -> D:\visual_studio_projects\SWSRemoteControl\Server\Debug\Server.exe
+  Server.vcxproj -> D:\visual_studio_projects\SWSRemoteControl\Server\Debug\Server.pdb (Partial PDB)
