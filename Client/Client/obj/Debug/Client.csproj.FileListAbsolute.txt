@@ -1,0 +1,9 @@
+F:\GIT\SWSRemoteControl\Client\Client\bin\Debug\Client.exe.config
+F:\GIT\SWSRemoteControl\Client\Client\bin\Debug\Client.exe
+F:\GIT\SWSRemoteControl\Client\Client\bin\Debug\Client.pdb
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.Form1.resources
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.exe
+F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.pdb
