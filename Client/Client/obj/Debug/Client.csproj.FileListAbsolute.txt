@@ -7,3 +7,13 @@ F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.Properties.Resources.reso
 F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.exe
 F:\GIT\SWSRemoteControl\Client\Client\obj\Debug\Client.pdb
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\bin\Debug\Client.exe.config
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\bin\Debug\Client.exe
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\bin\Debug\Client.pdb
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.exe
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.pdb
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Clientn.Form1.resources
+D:\visual_studio_projects\SWSRemoteControl\Client\Client\obj\Debug\Client.Form1.resources
